@@ -8,13 +8,13 @@
 
 <div align="center">
     タスク概要<br>
-    ![task_overview](https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/088028d2-a122-42e9-a19a-8c46519da470)
+    <img src="https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/088028d2-a122-42e9-a19a-8c46519da470">
 </div>
 <br><br>
 
 <div align="center">
     アルゴリズム概要<br>
-    ![method_overview](https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/06af82a7-fdfc-4893-a01e-db9faeca7e01)
+    <img src="https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/06af82a7-fdfc-4893-a01e-db9faeca7e01">
 </div>
 
 
