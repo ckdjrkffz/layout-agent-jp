@@ -8,13 +8,13 @@
 
 <div align="center">
     デモ動画<br>
-    <img src="https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/c711c200-af9e-4dc6-a792-bc23578f1dd5">
+    <video src="https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/c711c200-af9e-4dc6-a792-bc23578f1dd5">
 </div>
 <br><br>
 
 <div align="center">
     タスク概要<br>
-    <img src="(https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/970a6d8c-daf2-4f84-a0d3-288edadddbd">
+    <img src="https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/970a6d8c-daf2-4f84-a0d3-288edadddbd">
 </div>
 <br><br>
 
