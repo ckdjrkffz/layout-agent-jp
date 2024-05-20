@@ -3,12 +3,18 @@
 人工知能学会2024に投稿した論文「大規模言語モデルによるレイアウト生成エージェント」のコードです。ユーザの指示を入力すると、言語モデル駆動のエージェントが仮想空間にオブジェクトを配置することで、指示を反映したレイアウトを生成します。
 
 - [人工知能学会論文リンク](https://confit.atlas.jp/guide/event-img/jsai2024/2F4-GS-5-03/public/pdf?type=in)
-- arXiv論文リンク (Link be later)
-    - 人工知能学会論文を英語に翻訳したもので、内容はほぼ同内容です。
+- [arXiv論文リンク](https://arxiv.org/pdf/2405.08037)
+    - 人工知能学会論文を英語に翻訳したもので、内容はほぼ同一です。
+
+<div align="center">
+    デモ動画<br>
+    <img src="https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/c711c200-af9e-4dc6-a792-bc23578f1dd5">
+</div>
+<br><br>
 
 <div align="center">
     タスク概要<br>
-    <img src="https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/088028d2-a122-42e9-a19a-8c46519da470">
+    <img src="(https://github.com/ckdjrkffz/layout-agent-jp/assets/129842419/970a6d8c-daf2-4f84-a0d3-288edadddbd">
 </div>
 <br><br>
 
